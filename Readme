@@ -1,0 +1,9 @@
+Ethereum Wallet & Transaction
+
+An application that generates 100 new addresses and will check every new Block transaction and verify against our 100
+addresses. If the transaction is to our address then insert it in the MySql database table.
+
+Install dependencies.
+$npm install web3, ethereunjs-wallet, mysql
+
+

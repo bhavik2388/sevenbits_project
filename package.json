@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
+    "ethereumjs-wallet": "^1.0.2",
+    "mysql": "^2.18.1",
+    "node-ethereum-wallet": "^1.4.3",
+    "web3": "^1.7.3",
+    "web3-eth": "^1.7.3"
+  }
+}
