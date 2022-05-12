@@ -53,7 +53,6 @@ async function main() {
 			if(toadd != ""){
 				for(var j=0;j<=address.length;j++){
 					if (toadd == address[j] && toadd !=null){
-						// transactions.push("0xb0be692ff4c96c6034d24ba0b07d192a0c5cfe678208f2fa65f577a01415c968")
 						block_hash = await block.hash;
 						block_parent_hash = await block.parentHash;
 						let process = 1;
